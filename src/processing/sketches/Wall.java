@@ -5,7 +5,7 @@ import processing.core.PApplet;
 
 import static processing.core.PApplet.abs;
 
-public class Wall {
+public class  Wall {
     private final static PApplet p = Main.applet;
 
     Vector origin;
